@@ -42,8 +42,7 @@ youtube-video-manager-cli/
 ### 1️⃣ Clone the repository
 bash
 
-git clone https://github.com/your-username/youtube-video-manager-cli.git
-cd youtube-video-manager-cli
+git clone https://github.com/dineshsankhatdev/youtube-video-manager-cli.git
 
 2️⃣ Run the application
 
